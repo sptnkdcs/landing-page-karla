@@ -1,26 +1,69 @@
-[
-  {
-    "name": "Danieli Banardi",
-    "rating": 5,
-    "text": "Dra. Karla é aquela médica que você sente como parte da família, sempre atenciosa, ouve com atenção e transmite a informação com respeito e carinho. Recomendo de olhos fechados!",
-    "image": ""
-  },
-  {
-    "name": "Leticia Cesar",
-    "rating": 5,
-    "text": "A Dra. Karla foi um verdadeiro anjo em minha vida. Em um momento extremamente delicado, encontrei nela toda a delicadeza, atenção e cuidado que eu precisava. Sou eternamente grata.",
-    "image": ""
-  },
-  {
-    "name": "Giovanna Martins",
-    "rating": 5,
-    "text": "Minha consulta com a Dra. Karla foi simplesmente maravilhosa! Ela é um amor de pessoa, super simpática e acolhedora. Eu tinha muitas dúvidas e saí de lá completamente tranquila.",
-    "image": ""
-  },
-  {
-    "name": "Natalia Coelho",
-    "rating": 5,
-    "text": "Felizmente tive um pré-natal tranquilo apesar de ser alto risco, tive todas as minhas dúvidas respondidas. Meu parto foi inesquecível, pude escolher cada detalhe. Gratidão eterna!",
-    "image": "/images/natalia-coelho.jpg"
-  }
-]
+{
+  "updatedAt": "2026-06-18T21:09:07.889Z",
+  "reviews": [
+    {
+      "name": "Carolina Terra",
+      "rating": 5,
+      "text": "A Dra. Karla foi um achado! Encontrei ela com 1 mês para o parto. Fui acolhida e super bem orientada. Extremamente competente, tirou todas as minhas dúvidas e me deixou super segura e a vontade. A equipe dela é igualmente ótima. Meu parto foi um sucesso e a recuperação está indo super bem!!!",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLFTtQr40rtQbszJ-u5ef9ib_9aujpYwkDzosroXhIH1LQf6Q=s120-c-rp-mo-br100",
+      "time": "2 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210V1NYSldNRkpUYjBkdlNETnhhR3QyWmw5S1oyYxAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOmtWSXJWMFJTb0dvSDNxaGt2Zl9KZ2c%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Cauê L. de Oliveira",
+      "rating": 5,
+      "text": "Dra. Karla é um bálsamo para o coração durante e após o pré-natal. Minha esposa tem algumas questões de saúde que exigiram um acompanhamento mais detalhado e o trabalho da Dra. é impecável. O conhecimento sempre atualizado, o acolhimento e a segurança passada durante toda a gestação foram fatores decisivos para que pudéssemos acompanhar a evolução de nosso bebê com tranquilidade e aproveitar cada fase do pré-natal. As consultas são humanizadas, a atenção e o carinho em cada palavra fazem toda a diferença. Para além disso, tive o privilégio de assistir a Dra. realizar o parto do nosso Luiz. É incrível como a técnica, o domínio e a precisão saltam aos olhos. Hoje, com nosso filho com uma semana de idade e tudo tendo transcorrido tão bem, não há dúvidas de que escolhemos a melhor médica possível para acompanhar e viabilizar a chegada de nosso príncipe. Obrigado pelo carinho, atenção e trabalho maravilhoso, Dra!",
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXTTDd4SMnSWU8YC-gbqTq1uN6kou6JAr8tIhYRN2VU8ImMij8F=s120-c-rp-mo-ba12-br100",
+      "time": "2 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWTmJrRnpTR0Y2ZVdOd1RsUmFSMjFPUjI5WmFVRRAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOlVNbkFzSGF6eWNwTlRaR21OR29ZaUE%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Natália Solange",
+      "rating": 5,
+      "text": "Fiz meu pré natal com a Doutora Karla Saraiva !\nE foi tudo perfeito, desde as consultas até o parto, ela fez com que esse momento se tornasse ainda mais especial e seguro !\nA doutora é muito dedicada, carinhosa, paciente, acolhedora, atenciosa !\nCada consulta nos deixou mais segura e calma !\nUma profissional exemplar !!!",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIAIOBCHOaaxGO0mwf4XEP8tB-NlrCxzHCESsgrJCHAMvrnZA=s120-c-rp-mo-br100",
+      "time": "2 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ObVltMWFkVGhPWmtOalRYQmFlVFJzYkhnNVptYxAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOmNmYm1adThOZkNjTXBaeTRsbHg5Zmc%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Larissa Cavalcante",
+      "rating": 5,
+      "text": "A melhor obstetra do mundo!\nSem palavras para descrever o acompanhamento da Dra. Karla.\nSuper acolhedora, prestativa e carinhosa.\nMe senti muito segura desde a primeira consulta até o pós parto.\nPerfeita ♥️",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocLS4ut7dqhe_BNUH7HIyFecFqeSmxRqxLvg3q9LDkXwMy6mFhI=s120-c-rp-mo-br100",
+      "time": "2 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSSGFVSldObUoxVVZWVVNpMXNSMWhuUTFSa2RuYxAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOjRHaUJWNmJ1UVVUSi1sR1hnQ1Rkdnc%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Yohana Torres (yoyo)",
+      "rating": 5,
+      "text": "A Dra Karla é mais que uma excelente médica. Ela é um ser humano realmente feliz e competente no que faz. O cuidado dela para com os pacientes vai além das consultas. Está sempre presente e muito prestativa a qualquer momento. Muito paciente e carinhosa. Eu precisei fazer cesária e tenho pânico de agulhas e cicatrizes, mas ela me tranquilizou imediatamente. Foi essencial esse comportamento dela comigo. Ela simplesmente me acolheu do início ao fim da gestação e permanece sendo minha médica. Se eu tiver mais um filho, com certeza é ela quem vai cuidar de nós, mais uma vez.",
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjXpxTvvRqBRmr7r-JxaUDh_QqxVVludYg0_HLc7xGhhx155sFjh=s120-c-rp-mo-ba12-br100",
+      "time": "6 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSTFRIZFVXV3N4UVROa2VuVTNla1p3TUV0Q1ZIYxAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOkRLTHdUWWsxQTNkenU3ekZwMEtCVHc%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Danieli Banardi",
+      "rating": 5,
+      "text": "Dra. Karla é aquela médica que vc sente como parte da família, sempre atenciosa, ouve com atenção e transmite a informação com respeito e conhecimento. Até que fim encontrei uma doutora em qual confiar e me sentir confortal, Recomendo de olhos fechados.",
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUdkHEO5DFMZjycVjnRQkVzJFqD2e9OTZahIPKQszdZcQoGBi3Y=s120-c-rp-mo-br100",
+      "time": "8 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xVMFZVaFVNekY0Ykd0VVdtRXdlbU5LVGxoWWIzYxAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOlU0VUhUMzF4bGtUWmEwemNKTlhYb3c%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Leticia Cesar",
+      "rating": 5,
+      "text": "A Dra. Karla foi um verdadeiro anjo em minha vida. Em um momento extremamente delicado, encontrei nela toda a delicadeza, atenção e empatia que eu precisava. Durante minha internação no hospital, passei pela dor da perda da minha filha, mas mesmo após esse acontecimento tão difícil, a Dra. Karla continuou demonstrando preocupação genuína e um cuidado excepcional com meu bem-estar. É uma profissional que sabe acolher, que trata com humanidade e que nunca me deixou desamparada. Tenho fé de que, em breve, poderei reencontrá-la em um momento de alegria, em uma nova gestação.",
+      "image": "https://lh3.googleusercontent.com/a-/ALV-UjUFTycj85XJHHDidotpTjTGac5z8xwTmXCnG-ZaZqL8RTofV93PmQ=s120-c-rp-mo-ba12-br100",
+      "time": "9 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWNlNYZHdjbEE1U0hvdGFtWkRhbVpsZFhVdFpFRRAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOlV6SXdwclA5SHotamZDamZldXUtZEE%7C%7C?hl=pt-BR"
+    },
+    {
+      "name": "Giovanna Martins",
+      "rating": 5,
+      "text": "Minha consulta com a Dra. Karla foi simplesmente maravilhosa! Ela é um amor de pessoa, super simpática e acolhedora.\nEu tinha muitas dúvidas de anos e ela foi extremamente atenciosa, tirando todas elas e muito mais. Nunca tive uma consulta como a dela. A última que fiz, há uns 6 meses, não deve ter durado nem 15 minutos, enquanto com ela eu pude conversar sobre tudo com calma. Saí de lá com respostas para coisas que eu nem sabia que tinha perguntas.\nAmei a experiência e a dedicação dela. Quando engravidar, não tenho a menor dúvida de que farei todo o meu pré-natal com a Dra. Recomendo de olhos fechados. Muito obrigada doutora.",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKnQeZNl-EaH25AneptyBP9kkeJuSNL_Tyz4hWgLIy20mn3-A=s120-c-rp-mo-br100",
+      "time": "10 meses atrás",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twZlREaHFZbkpJVldseFoxUk1jalZYWTNGaVJsRRAB!2m1!1s0x0:0xb07846bed3555186!3m1!1s2@1:CAIQACodChtycF9oOkpfTDhqYnJIVWlxZ1RMcjVXY3FiRlE%7C%7C?hl=pt-BR"
+    }
+  ]
+}
