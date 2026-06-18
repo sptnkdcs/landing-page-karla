@@ -144,18 +144,18 @@ function ReviewCard({ review }: { review: Review }) {
 }
 
 export function Testimonials() {
-  const [reviews, setReviews] = useState<Review[]>([])
-  const [loading, setLoading] = useState(true)
+  // Inicia com dados estáticos — aparece instantaneamente, sem skeleton
+  const [reviews, setReviews] = useState<Review[]>(STATIC_REVIEWS)
   const [api, setApi] = useState<CarouselApi>()
   const [current, setCurrent] = useState(0)
   const [count, setCount] = useState(0)
 
   useEffect(() => {
+    // Busca silenciosamente em background e troca quando pronto
     fetch("/api/reviews")
       .then(r => r.json())
-      .then(data => setReviews(data.reviews?.length ? data.reviews : STATIC_REVIEWS))
-      .catch(() => setReviews(STATIC_REVIEWS))
-      .finally(() => setLoading(false))
+      .then(data => { if (data.reviews?.length) setReviews(data.reviews) })
+      .catch(() => {})
   }, [])
 
   useEffect(() => {
@@ -174,16 +174,6 @@ export function Testimonials() {
       setCurrent(api.selectedScrollSnap())
     }
   }, [api, reviews])
-
-  if (loading) {
-    return (
-      <div className="mx-auto max-w-6xl px-10 sm:px-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {Array.from({ length: 4 }).map((_, i) => <SkeletonCard key={i} />)}
-        </div>
-      </div>
-    )
-  }
 
   return (
     <div className="mx-auto max-w-6xl">
