@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Danieli Banardi",
+    "rating": 5,
+    "text": "Dra. Karla é aquela médica que você sente como parte da família, sempre atenciosa, ouve com atenção e transmite a informação com respeito e carinho. Recomendo de olhos fechados!",
+    "image": ""
+  },
+  {
+    "name": "Leticia Cesar",
+    "rating": 5,
+    "text": "A Dra. Karla foi um verdadeiro anjo em minha vida. Em um momento extremamente delicado, encontrei nela toda a delicadeza, atenção e cuidado que eu precisava. Sou eternamente grata.",
+    "image": ""
+  },
+  {
+    "name": "Giovanna Martins",
+    "rating": 5,
+    "text": "Minha consulta com a Dra. Karla foi simplesmente maravilhosa! Ela é um amor de pessoa, super simpática e acolhedora. Eu tinha muitas dúvidas e saí de lá completamente tranquila.",
+    "image": ""
+  },
+  {
+    "name": "Natalia Coelho",
+    "rating": 5,
+    "text": "Felizmente tive um pré-natal tranquilo apesar de ser alto risco, tive todas as minhas dúvidas respondidas. Meu parto foi inesquecível, pude escolher cada detalhe. Gratidão eterna!",
+    "image": "/images/natalia-coelho.jpg"
+  }
+]

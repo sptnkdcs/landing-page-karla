@@ -5,6 +5,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { Clock, MapPin, Phone, Instagram, X, MessageCircle, Menu, Star } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { Testimonials } from "@/components/testimonials"
 
 export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -397,12 +398,7 @@ export default function Home() {
                 O que nossas pacientes dizem sobre o atendimento
               </p>
             </div>
-            <iframe
-              srcDoc='<!DOCTYPE html><html><head><style>body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;}</style></head><body><div id="reviews-widget-522"></div><script src="https://app.reviewconnect.me/embed/uR6N66EjRJkccct4pfn5c8gUV7R18XwS/widget.js" async></script></body></html>'
-              className="w-full min-h-[300px] sm:min-h-[350px] md:min-h-[400px] border-0"
-              title="Avaliações de pacientes da Dra. Karla Saraiva no Google"
-              loading="lazy"
-            />
+            <Testimonials />
 
             {/* Botão de Avaliação */}
             <div className="flex justify-center mt-6 sm:mt-8">
