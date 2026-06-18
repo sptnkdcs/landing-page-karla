@@ -2,8 +2,8 @@ import { NextResponse } from "next/server"
 import { readFileSync, existsSync } from "fs"
 import path from "path"
 
-// Resposta cacheada por 24 horas — SerpAPI só é chamada 1x por dia
-export const revalidate = 86400
+// Rota sempre dinâmica — o cache fica no fetch interno (next.revalidate)
+export const dynamic = "force-dynamic"
 
 const REVIEWS_PATH = path.join(process.cwd(), "data", "reviews.json")
 
@@ -33,7 +33,9 @@ async function fetchSerpApiReviews() {
     })
     if (nextPageToken) params.set("next_page_token", nextPageToken)
 
-    const data = await fetch(`https://serpapi.com/search.json?${params}`).then(r => r.json())
+    const data = await fetch(`https://serpapi.com/search.json?${params}`, {
+      next: { revalidate: 86400 },
+    }).then(r => r.json())
 
     // Interrompe paginação se der erro, mas mantém o que já foi buscado
     if (data.error) break
